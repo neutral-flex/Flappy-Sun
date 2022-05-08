@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: b547656d45b645d43a95c3a77267eb8d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - PlayerRigidbody: {instanceID: 0}
+  - BlockersHitSound: {instanceID: 0}
+  - ScoreSound: {instanceID: 0}
+  - completeGameOverUI: {instanceID: 0}
+  - GameOverSound: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
